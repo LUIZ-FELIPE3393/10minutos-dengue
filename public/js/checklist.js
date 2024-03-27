@@ -88,7 +88,7 @@ addButton.addEventListener("click", function (e) {
 const tupleFormat = `
 <td class="td-data">
     <div class="form-check form-check-inline">
-        <input class="form-text-input" type="text" name="datadia" id="datadia" required>
+        <input class="form-text-input" type="date" name="datadia" id="datadia" required>
     </div>
 </td>
 <td class="td-check">
